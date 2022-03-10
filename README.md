@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+I am Dr Pranesh. Welcome to my github space.
+
+Visit my Linked in Profile [here](https://www.linkedin.com/in/dr-pranesh-krishnan)
+
 <!--
 **praneshkrishnan/praneshkrishnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
