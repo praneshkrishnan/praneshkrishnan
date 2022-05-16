@@ -15,6 +15,7 @@ I am Dr Pranesh. Welcome to my github space.
 
 [![Medium Badge](https://badgen.net/badge/icon/medium?icon=medium&label=https://medium.com/@praneshkrishnan)](https://medium.com/@praneshkrishnan)
 
+https://badgen.net/badge/icon/medium?icon=medium&label=https://medium.com/@praneshkrishnan
 <!--
 **praneshkrishnan/praneshkrishnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
