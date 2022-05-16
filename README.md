@@ -13,9 +13,9 @@ I am Dr Pranesh. Welcome to my github space.
 
 [![Scopus Badge](https://img.shields.io/badge/-Scopuslabel=Scopus-message=Publication-color=yellow&link=https://www.scopus.com/authid/detail.uri?authorId=55639186000)](https://www.scopus.com/authid/detail.uri?authorId=55639186000)
 
-<!--[![Medium Badge](https://badgen.net/badge/icon/medium?icon=medium&label=https://medium.com/@praneshkrishnan)](https://medium.com/@praneshkrishnan)-->
+[![Medium Badge](https://badgen.net/badge/icon/medium?icon=medium)](https://medium.com/@praneshkrishnan)
 
-[(https://badgen.net/badge/icon/medium?icon=medium)](https://medium.com/@praneshkrishnan)
+
 <!--
 **praneshkrishnan/praneshkrishnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
