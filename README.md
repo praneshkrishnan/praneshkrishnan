@@ -11,6 +11,7 @@ I am Dr Pranesh. Welcome to my github space.
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dr-pranesh-krishnan/)](https://www.linkedin.com/in/dr-pranesh-krishnan/)
 [![Gmail Badge](https://img.shields.io/badge/-praneshkrishnan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:praneshkrishnan@gmail.com)](mailto:praneshkrishnan@gmail.com)
 
+[Scopus](https://www.scopus.com/authid/detail.uri?authorId=55639186000)
 <!--
 **praneshkrishnan/praneshkrishnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
