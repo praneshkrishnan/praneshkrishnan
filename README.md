@@ -16,6 +16,22 @@ I am Dr Pranesh. Welcome to my github space.
 [![Medium Badge](https://badgen.net/badge/icon/medium?icon=medium&label)](https://medium.com/@praneshkrishnan)
 [![Slack Badge](https://badgen.net/badge/icon/slack?icon=slack&label)]()
 
+[![Scopus Badge](https://badgen.net/badge/icon/https://www.scopus.com/home.uri?zone=header&origin=?icon=slack&label)]()
+
+[![Slack Badge](https://badgen.net/badge/icon/slack?icon=slack&label)]()
+
+[![Slack Badge](https://badgen.net/badge/icon/slack?icon=slack&label)]()
+
+[![Slack Badge](https://badgen.net/badge/icon/slack?icon=slack&label)]()
+
+[![Slack Badge](https://badgen.net/badge/icon/slack?icon=slack&label)]()
+
+[![Slack Badge](https://badgen.net/badge/icon/slack?icon=slack&label)]()
+
+
+
+
+
 
 <!--
 **praneshkrishnan/praneshkrishnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
