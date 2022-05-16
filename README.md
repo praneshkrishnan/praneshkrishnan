@@ -16,7 +16,7 @@ I am Dr Pranesh. Welcome to my github space.
 [![Medium Badge](https://badgen.net/badge/icon/medium?icon=medium&label)](https://medium.com/@praneshkrishnan)
 [![Slack Badge](https://badgen.net/badge/icon/slack?icon=slack&label)]()
 
-[![Scopus Badge](https://badgen.net/badge/icon/https://www.scopus.com/home.uri?zone=header&origin=?icon=slack&label)]()
+[![Scopus Badge](https://badgen.net/https://www.scopus.com/home.uri?zone=header&origin=badge/icon/?icon=slack&label)]()
 
 [![Slack Badge](https://badgen.net/badge/icon/slack?icon=slack&label)]()
 
