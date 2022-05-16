@@ -11,7 +11,7 @@ I am Dr Pranesh. Welcome to my github space.
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dr-pranesh-krishnan/)](https://www.linkedin.com/in/dr-pranesh-krishnan/)
 [![Gmail Badge](https://img.shields.io/badge/-praneshkrishnan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:praneshkrishnan@gmail.com)](mailto:praneshkrishnan@gmail.com)
 
-![Scopus Badge](https://img.shields.io/static/v1?label=Scopus&message=Publication&color=yellow&link=https://www.scopus.com/authid/detail.uri?authorId=55639186000)
+![Scopus Badge](https://img.shields.io/badge/label=Scopus&message=Publication&color=yellow&link=https://www.scopus.com/authid/detail.uri?authorId=55639186000)
 
 
 <!--
