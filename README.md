@@ -14,6 +14,7 @@ I am Dr Pranesh. Welcome to my github space.
 [![Scopus Badge](https://img.shields.io/badge/-Scopuslabel=Scopus-message=Publication-color=yellow&link=https://www.scopus.com/authid/detail.uri?authorId=55639186000)](https://www.scopus.com/authid/detail.uri?authorId=55639186000)
 
 [![Medium Badge](https://badgen.net/badge/icon/medium?icon=medium&label)](https://medium.com/@praneshkrishnan)
+[![Slack Badge](https://badgen.net/badge/icon/slack?icon=slack&label)]()
 
 
 <!--
