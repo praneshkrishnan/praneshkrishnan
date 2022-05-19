@@ -1,5 +1,12 @@
+
+
+
+
 <h2 align=center>👋 Hi, Welcome to my Github Space!</h2><br/>
 <p align =center>I am Pranesh. I am an AI Enthusiast</p>
+
+![](https://komarev.com/ghpvc/?username=praneshkrishnan&color=brightgreen)
+![](https://visitor-badge.glitch.me/badge?page_id=praneshkrishnan)
 
 *   🌍  I'm based in Penang, Malaysia
 *   🖥️  See my portfolio at [my website](http://praneshkrishnan.ml)
@@ -30,11 +37,12 @@
 
 ---
 ##Blogs
-[![Pranesh's Medium](https://github-readme-medium.vercel.app/?username=praneshkrishnan)](https://medium.com/@praneshkrishnan)
+<!-- [![Pranesh's Medium](https://github-readme-medium.vercel.app/?username=praneshkrishnan&limit=2&bg=red&text=green)](https://medium.com/@praneshkrishnan) -->
+[![Pranesh's Medium](https://github-readme-medium.vercel.app/?username=praneshkrishnan&limit=2)](https://medium.com/@praneshkrishnan)
 
 ---
 
-## ⚡ Technologies
+## ⚡ My Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
