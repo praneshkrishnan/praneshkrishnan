@@ -3,8 +3,12 @@
 
 I am Dr Pranesh. Welcome to my github space.
 
-![github stats](https://github-readme-stats.vercel.app/api?username=praneshkrishnan&show_icons=true&count_private=true)
-  
+![Pranesh's Github stats](https://github-readme-stats.vercel.app/api/?username=praneshkrishnan&show_icons=true&count_private=true&hide=contribs,prs&theme=radical&exclude_repo=praneshkrishnan,website_template,pycaret,pk.github.io)
+
+[![Pranesh's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=praneshkrishnan&lang_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
   **📫 Reach me at:**<br>
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/preneshkrishnan)](https://twitter.com/preneshkrishnan)
@@ -28,7 +32,9 @@ I am Dr Pranesh. Welcome to my github space.
  -->
 
 
-
+<!-- References
+https://github.com/anuraghazra/github-readme-stats
+ -->
 
 
 <!--
