@@ -1,7 +1,5 @@
-### Hi there 👋
-
-
-I am Dr Pranesh. Welcome to my github space.
+<h2 align=center>👋 Hi, Welcome to my Github Space!</h2><br/>
+<p align =center>I am Pranesh. I am an AI Enthusiast,.</p>
 
 ![Pranesh's Github stats](https://github-readme-stats.vercel.app/api/?username=praneshkrishnan&show_icons=true&count_private=true&hide=contribs,prs&theme=radical&exclude_repo=praneshkrishnan,website_template,pycaret,pk.github.io)
 
