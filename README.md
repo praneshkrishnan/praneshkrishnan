@@ -8,7 +8,7 @@
 ![](https://komarev.com/ghpvc/?username=praneshkrishnan&color=brightgreen)
 ![](https://visitor-badge.glitch.me/badge?page_id=praneshkrishnan)
 
-*   🌍  I'm based in Penang, Malaysia
+*   🌍  I am an AI Consultant, and I'm now based in Penang, Malaysia
 *   🖥️  See my portfolio at [my linkedin](https://www.linkedin.com/in/dr-pranesh-krishnan/)
 *   ✉️  You can contact me at [praneshkrishnan@gmail.com](mailto:praneshkrishnan@gmail.com)
 <!-- *   🚀  I'm currently working on [Bhel](http://bhel.prikeshsavla.com)
